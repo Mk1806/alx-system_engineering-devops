@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+pwd command prints out the absolute path name of the current working directory
