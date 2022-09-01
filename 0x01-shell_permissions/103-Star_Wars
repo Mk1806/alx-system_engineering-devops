@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet towel.blinkenlight.nl
+mpv --quiet -vo caca sample.avi
