@@ -9,3 +9,4 @@
 8 - A script that sets permissionto the file hello to other user only.
 9 - A script that sets the mode of the file hello.
 10 - A script that sets the mode of the file hello the same to olleh mode
+11 - A script that adds execute permission to all subdirectories of the current directory for everyone.
