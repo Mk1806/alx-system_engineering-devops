@@ -1,2 +1,2 @@
 #!/bin/bash
-mpv --quiet -vo caca sample.avi
+mplayer -vocaca 103-Star_Wars
