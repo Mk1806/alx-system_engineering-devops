@@ -23,4 +23,5 @@
  22. A script that displays all users and their home directories, sorted by users.
  23. A script that finds all empty files and directoriess in the current directory and all sub-directories. 
  24. A script that lists all files with a .gif extension in the current directory and its sub-directories.
+ 25. A script that decodes acrostics that use the first letter of each line.
 
