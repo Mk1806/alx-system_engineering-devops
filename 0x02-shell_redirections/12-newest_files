@@ -1,2 +1,2 @@
-ls -1 --sort+time | head-n 10
+#!/bin/bash
 ls -1 --sort+time | head -n 10
