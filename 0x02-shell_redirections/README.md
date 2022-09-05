@@ -11,4 +11,5 @@
  10. A script that deletes all the regular files with a .js extension that are present in the current directory and all it's subfolders.
  11. A script that counts the number of directories and sub-directories in the current directory.
  12. A script that displays the 10 newest files in the current directory (one file per line)
+ 13. A script that takes a list of words as input and prints only words that appear exactly once.
 
