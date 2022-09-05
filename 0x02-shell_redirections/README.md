@@ -5,3 +5,5 @@
  4. A script that displays the last 10 lines of /etc/passwd.
  5. A script that displays the first 10 lines of /etc/passwd.
  6. A script that displays the third line of the file iacta.
+ 7. A script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School.
+
